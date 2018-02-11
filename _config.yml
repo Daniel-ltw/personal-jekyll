@@ -48,6 +48,8 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: contrast
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll/tagging
   - jekyll-tagging-related_posts
 
