@@ -21,6 +21,7 @@ gem "jekyll", "~> 3.7.2"
 group :jekyll_plugins do
 #  gem 'github-pages'
   gem 'jekyll-tagging'
+  gem 'jekyll-paginate'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-remote-theme'
