@@ -1,6 +1,6 @@
 ---
 title: Open Source Autonomous Driving for Everyone
-date: 2018-02-12 11:22:40 +1300
+date: 2018-02-11 22:22:40 +0000
 tags: github commaai openpilot autonomous driving
 ---
 
