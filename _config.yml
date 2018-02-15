@@ -51,6 +51,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-paginate
   - jekyll-menus
 
 # jekyll tagging settings
