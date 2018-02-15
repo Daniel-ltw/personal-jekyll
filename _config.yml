@@ -52,6 +52,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
   - jekyll-tagging-related_posts
+  - jekyll-menus
 
 # jekyll tagging settings
 tag_page_layout: tag_page
